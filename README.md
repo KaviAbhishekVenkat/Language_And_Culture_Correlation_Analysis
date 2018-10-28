@@ -60,3 +60,10 @@ pip install numpy
 
 
 
+
+## Authors
+
+* **Arif Awate** 
+* **Kavi Abhishek Venkat** 
+
+
