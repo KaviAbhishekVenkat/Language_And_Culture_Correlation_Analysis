@@ -8,6 +8,10 @@ Install the library
 
 ```
 TextBlob
+Pandas
+Matplotlib
+Sklearn
+Numpy
 ```
 
 ### Installing
@@ -48,12 +52,6 @@ Install Numpy
 ```
 pip install numpy
 ```
-
-
-## Running the tests
-
-
-### Steps
 
 
 ## Built With
