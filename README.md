@@ -1,16 +1,3 @@
-## Getting Started
-
-Python3 is used. 
-
-### Prerequisites
-
-
-
-## Built With
-
-* [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning Library
-
-
 # Language and Culture Correlation Analysis
 
   The language is a product of the culture associated with its speakers. This means, if a community identifies something as positive, then the language should support it by providing words that have a positive sentiment. This brings up an interesting hypothesis, if a set of distinct scenarios with varying sentiments associated for each community is analyzed for each community, given a particular test scenario and a language describing it, we can identify the community. 
