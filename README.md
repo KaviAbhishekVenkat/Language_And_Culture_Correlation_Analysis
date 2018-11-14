@@ -68,6 +68,12 @@ Run all the cells sequentially to test the project for the given 21 movie data s
 
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Machine Learning Library
 
+## Results
+
+For the given set of movies, we find that the english language generally has a higher positive sentiments and tends have more meaningful than the chinese counterparts. This can also the effect of using the english as the common ground of evaluation rather than an actual disparity. 
+Trying to evaluate correlation between the polarity and subjectivity values for each language, we find there is a high correlation between the polarity values and not so much in the subjectivity values. This provides a minor support for our hypothesis described in the introduction.
+
+To test our hypothesis we then train a Nearest Centroid Model after creating a train and test set from the given dataset. This gives an average prediction success of 66%.
 
 ## Authors
 
