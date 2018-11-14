@@ -79,6 +79,7 @@ To test our hypothesis we then train a Nearest Centroid Model after creating a t
 
 * **Arif Awate** 
 * **Kavi Abhishek Venkat** 
+* **Shivam Narula**
 
 ## Acknowledgments
 
